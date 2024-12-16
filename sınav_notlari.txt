@@ -1,0 +1,3 @@
+Kadir Burak Ünal:100,100,90
+mehmet yılmaz:90,70,80
+deniz efe:60,80,90
